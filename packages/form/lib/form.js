@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 module.exports = form;
 
 function form() {
-  return 'Hello from form';
+  return "Hello from form!";
 }
