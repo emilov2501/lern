@@ -6,6 +6,7 @@
     "version": {
       "allowBranch":["main"],
       "conventionalCommits": true,
+      "conventionalPrerelease":true,
       "changelog": true
     }
   }
