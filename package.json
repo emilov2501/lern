@@ -19,5 +19,12 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emilov2501/lern.git"
+  },
+  "changelog": {
+    "labels": {
+      "Type: Feature": "Features",
+      "Type: Bug": "Bug fixes",
+      "Type: Enhancement": "Enhancements"
+    }
   }
 }
