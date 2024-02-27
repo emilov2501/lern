@@ -1,0 +1,27 @@
+{
+  "name": "field",
+  "version": "1.0.0",
+  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
+  "keywords": [],
+  "author": "Eldiiar Temir <emilov2501@gmail.com>",
+  "license": "ISC",
+  "main": "lib/field.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/emilov2501/lern.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/field.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/emilov2501/lern/issues"
+  },
+  "homepage": "https://github.com/emilov2501/lern#readme"
+}
